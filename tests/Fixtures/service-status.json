@@ -1,0 +1,7 @@
+{
+    "statusCode": 200,
+    "status": {
+        "service": "none",
+        "description": "All Services are Operational"
+    }
+}
